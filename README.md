@@ -65,7 +65,7 @@ ai-driven-development/
 │   └── orchestration/            # Паттерны рабочих процессов (DAG и др.)
 ├── AI_Dev_Workflow_Recommendations.md # Сборник лучших практик и антипаттернов AI-разработки
 ├── GEMINI.md                     # Контекст проекта для ИИ-агентов (Gemini/Claude)
-└── Pixel_Perfect_Design_Implementation.md # Руководство по AI-верстке интерфейсов
+└── AI_Pixel_Perfect_Design_Implementation.md # Руководство по AI-верстке интерфейсов
 ```
 
 ---
