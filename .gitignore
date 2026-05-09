@@ -1,0 +1,5 @@
+SaveAs/
+.DS_Store
+**/.DS_Store
+.obsidian/workspace.json
+.obsidian/plugins/terminal/data.json
